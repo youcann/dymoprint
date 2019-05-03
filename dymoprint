@@ -71,7 +71,7 @@ FONT_CONFIG = {'regular':'/usr/share/fonts/truetype/ubuntu-font-family/Ubuntu-R.
                'italic':'/usr/share/fonts/truetype/ubuntu-font-family/Ubuntu-RI.ttf',       # italic font
                'narrow':'/usr/share/fonts/truetype/ubuntu-font-family/Ubuntu-C.ttf'    # narrow/condensed
                }
-FONT_SIZERATIO  = 7./8
+FONT_SIZERATIO  = 5.5/8
 #CONFIG_FILE     = '.dymoprint'
 CONFIG_FILE     = 'dymoprint.ini'
 VERSION         = "0.3.4 (2016-03-14)"
